@@ -26,10 +26,10 @@ Hologram,Chroma Console,Bypass controls,Movement module bypass,Bypasses or engag
 Hologram,Chroma Console,Bypass controls,Diffusion module bypass,Bypasses or engages the Diffusion module.,105,,0,127,,,,,,,0-based,,0-63: Bypass; 64-127: Engage
 Hologram,Chroma Console,Bypass controls,Texture module bypass,Bypasses or engages the Texture module.,106,,0,127,,,,,,,0-based,,0-63: Bypass; 64-127: Engage
 Hologram,Chroma Console,Gesture,Gesture play/record,Controls playback and recording of knob movements.,80,,0,127,,,,,,,0-based,,0-63: Play; 64-127: Record
-Hologram,Chroma Console,Gesture,Gesture stop/erase,Stops or erases recorded gestures.,81,,0,127,,,,,,,0-based,,0-127: Stop/Erase
-Hologram,Chroma Console,Capture,Capture control,Controls looper/sustainer recording and playback.,82,,0,127,,,,,,,0-based,,0-43: Stop/Clear; 44-87: Play; 88-127: Record
+Hologram,Chroma Console,Gesture,Gesture stop/erase,Stops or erases recorded gestures.,81,,0,127,,,,,,,0-based,,0-127: Stop/erase
+Hologram,Chroma Console,Capture,Capture control,Controls looper/sustainer recording and playback.,82,,0,127,,,,,,,0-based,,0-43: Stop/clear; 44-87: Play; 88-127: Record
 Hologram,Chroma Console,Capture,Capture routing,Routes Capture looper before or after effects.,83,,0,127,,,,,,,0-based,,0-63: Post-FX; 64-127: Pre-FX
 Hologram,Chroma Console,Global settings,Tap tempo,Sends tap tempo input.,93,,0,127,,,,,,,0-based,,0-127: Tap
 Hologram,Chroma Console,Texture,Filter style,"Selects low-pass filter (LPF), tilt filter, or high-pass filter (HPF) style for Texture module.",84,,0,127,,,,,,,0-based,,0-43: Low-pass; 44-87: Tilt; 88-127: High-pass
-Hologram,Chroma Console,Calibration,Calibration headroom level,Sets the input level calibration headroom.,94,,0,127,,,,,,,0-based,,0-31: Low; 32-63: Medium; 64-95: High; 96-127: Very High
+Hologram,Chroma Console,Calibration,Calibration headroom level,Sets the input level calibration headroom.,94,,0,127,,,,,,,0-based,,0-31: Low; 32-63: Medium; 64-95: High; 96-127: Very high
 Hologram,Chroma Console,Calibration,Calibration menu,Enters or exits the calibration menu.,95,,0,127,,,,,,,0-based,,0-63: Exit; 64-127: Enter
