@@ -148,9 +148,10 @@ export function validateRow(row: Row, filename: string): ValidationResult {
     errors.push(`Default only set for one type in: ${label}`);
   }
 
-  // Orientation must be 'centered' or '0-based'
-  if (
-    row.orientation &&
+  // Orientation is required and must be 'centered' or '0-based'
+  if (!row.orientation) {
+    errors.push(`Orientation is required in: ${label}`);
+  } else if (
     row.orientation !== "centered" && row.orientation !== "0-based"
   ) {
     errors.push(
