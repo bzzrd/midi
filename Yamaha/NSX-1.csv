@@ -9,7 +9,7 @@ Yamaha,NSX-1,Voice control,Expression,Expression Control,11,,0,127,,,,,,,0-based
 Yamaha,NSX-1,Voice control,Bank Select LSB,Voice Bank Selection,32,,0,127,,,,,,,0-based,Affects volumes. GM/RAS eVocaloid.,
 Yamaha,NSX-1,Voice control,Bank Select LSB,Voice Bank Selection,38,,0,127,,,,,,,0-based,Affects volumes. GM/RAS eVocaloid,
 Yamaha,NSX-1,Voice control,Sustain,Damper Pedal,64,,0,127,,,,,,,0-based,GM/RAS eVocaloid,
-Yamaha,NSX-1,Voice control,Portamento,Portamento,65,,0,127,,,,,,,0-based,GM/RAS ,
+Yamaha,NSX-1,Voice control,Portamento,Portamento,65,,0,127,,,,,,,0-based,GM/RAS,
 Yamaha,NSX-1,Voice control,Sostenuto,Sostenuto Pedal,66,,0,127,,,,,,,0-based,GM/RAS,
 Yamaha,NSX-1,Voice control,Soft Pedal,Soft Pedal,67,,0,127,,,,,,,0-based,GM/RAS,
 Yamaha,NSX-1,Sound parameters,Harmonic Content,Timbre Control,71,,0,127,,,,,,,centered,GM/RAS,
